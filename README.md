@@ -67,7 +67,7 @@ graph LR
 View the notebook for full plots and in‑depth commentary.
 
 ## Project Requirements
-Please refere to **`environment.yml`** file for specific modules.
+Please refer to **`environment.yml`** file for specific modules.
 
 ## License
 Distributed under the MIT License. See [`LICENSE`](LICENSE.md) for details.
