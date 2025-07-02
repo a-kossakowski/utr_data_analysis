@@ -44,10 +44,6 @@ conda activate utr-analysis
 # 3. Launch JupyterLab and run the notebook
 jupyter lab notebooks/01_utr_data_analysis.ipynb
 ```
-
-> **Tip** Prefer the cloud? Adjust the Binder badge below with your GitHub username and click to launch the notebook in a one‑click reproducible environment.  
-> `[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/<your-username>/<repo-name>/HEAD?labpath=notebooks%2F01_utr_data_analysis.ipynb)`
-
 ## Reproducing the Analysis
 All figures and statistics will regenerate unaltered if you run the notebook top‑to‑bottom. The workflow is fully deterministic:
 
