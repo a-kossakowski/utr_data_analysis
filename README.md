@@ -1,6 +1,6 @@
 # UTR Data Analysis
 
-> Statistical exploration of 3′ and 5′ untranslated regions: how do length and UTR class shape GC content and motif repertoire?
+> Statistical exploration of 3′ and 5′ untranslated regions: how do length and UTR class shape GC content and motif repertoire? - by Aleksander Kossakowski
 
 [![Python](https://img.shields.io/badge/python-3.10%2B-blue?logo=python)](https://www.python.org/)  
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
