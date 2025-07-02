@@ -73,6 +73,6 @@ Please refer to **`environment.yml`** file for specific modules.
 Distributed under the MIT License. See [`LICENSE`](LICENSE.md) for details.
 
 ## Acknowledgements
-This work was completed as an **assignment for the “Biostatistics” course at IBB PAS, tutored by Dr Michał A. Ciach**.
+This work was completed as an **assignment for the “Biostatistics” course at IBB PAS, tutored by dr Michał A. Ciach**.
 
 
