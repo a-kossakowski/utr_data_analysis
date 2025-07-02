@@ -60,7 +60,7 @@ graph LR
 ## Key Results
 | Finding | Evidence | Practical takeaway |
 |---------|----------|--------------------|
-| **GC gap of ~15 pp** between UTR classes | Welch’s *t* = −36.2, *p* ≈ 10⁻²⁴⁸, Cohen’s *d* = 1.15 | 5′ UTRs are systematically GC‑richer—composition is a strong classifier |
+| **GC gap of ~15 pp** between UTR classes | Welch’s *t* = −36.2, *p* ≈ 10⁻²⁴⁸, Cohen’s *d* = 1.15 | 5′ UTRs are systematically GC‑richer, composition is a strong classifier |
 | Length effect is mild | OLS: log‑length coef = −0.013 (95 % CI −0.017…−0.010) | Very long 3′ UTRs tend to be AU‑rich but the change is ~1 pp per 10× length |
 | Motif repertoire mirrors GC bias | PCA (PC1 ≈ 36 %) separates AU‑rich (`ACA*`) vs GC‑rich (`GCGC*`) motifs | Regulatory elements at each end of mRNAs reflect their bulk composition |
 
