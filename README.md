@@ -34,15 +34,15 @@ The dataset comprises **4 000 human UTR sequences** with per‑sequence GC% an
 ## Quick Start
 ```bash
 # 1. Grab the code
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/a-kossakowski/utr_data_analysis
+cd utr_data_analysis
 
 # 2. Create the conda environment (≈ 1–2 min)
 conda env create -f environment.yml
 conda activate utr-analysis
 
 # 3. Launch JupyterLab and run the notebook
-jupyter lab notebooks/01_utr_data_analysis.ipynb
+jupyter lab utr_data_analysis.ipynb
 ```
 ## Reproducing the Analysis
 All figures and statistics will regenerate unaltered if you run the notebook top‑to‑bottom. The workflow is fully deterministic:
