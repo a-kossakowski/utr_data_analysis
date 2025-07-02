@@ -1,0 +1,21 @@
+name: utr-analysis
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  # Core scientific stack
+  - python=3.10
+  - pandas>=2.0
+  - numpy
+  - scipy
+  - matplotlib
+  - seaborn
+  - statsmodels
+  - scikit-learn
+
+  # Plot/text utilities
+  - adjusttext
+
+  # Notebook environment
+  - jupyterlab
+  - ipykernel
