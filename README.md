@@ -67,16 +67,7 @@ graph LR
 View the notebook for full plots and in‑depth commentary.
 
 ## Project Requirements
-The analysis relies on the scientific Python stack:
-
-- pandas ≥ 2.0  
-- numpy  
-- matplotlib  
-- seaborn  
-- scipy  
-- statsmodels  
-- scikit‑learn  
-- adjustText  
+Please refere to **`environment.yml`** file for specific modules.
 
 ## License
 Distributed under the MIT License. See [`LICENSE`](LICENSE.md) for details.
